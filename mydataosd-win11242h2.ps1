@@ -5,7 +5,7 @@ Start-OSDCloud -OSVersion 'Windows 11' -OSBuild 24H2 -OSEdition Pro -OSLanguage 
 
 #Restart from WinPE
 
-Write-Host -ForegroundColor Green â€œRestarting in 20 seconds!â€
+Write-Host -ForegroundColor Green Restarting in 20 seconds!
 
 Start-Sleep -Seconds 20
 
